@@ -100,7 +100,7 @@ router.put('/:id', (req, res) => {
           });
         }
   
-        return res.json(Tag);
+        return res.json(tag);
       })
       .catch((err) => {
         // console.log(err);
