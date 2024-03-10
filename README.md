@@ -7,16 +7,17 @@ This is a backend application for an ecommerce site that uses Sequelize to inter
 ## Installation
 Cloned the starter code from here:
 * https://github.com/coding-boot-camp/fantastic-umbrella
-You will also need to npm install sequelize, express, dotenv and pg from the integrated terminal to interact with the database. After all the databases have been created you can run "npm run seed" to seed the database. To get the server up and running/ listening you will run "node server". 
+
+* You will also need to npm install sequelize, express, dotenv and pg from the integrated terminal to interact with the database. After all the databases have been created you can run "npm run seed" to seed the database. To get the server up and running/ listening you will run "node server". 
 
 ## Usage
 To use this application a user needs to start the server on local host then use an application like Insomina to make requests to the database
 
 ## Credits
-Read about HasMany:
+I read about HasMany here:
 * https://sequelize.org/docs/v7/associations/has-many/ 
 
-*I got help from my tutor, ASK BCS as well as XPERT Learning Assistant
+*I also got help from my tutor, ASK BCS as well as XPERT Learning Assistant
 
 ## License
 Please refer to the LICENSE in the repo.
